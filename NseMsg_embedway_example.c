@@ -13,7 +13,7 @@
 #define OPCODE_LD3              0x2
 #define OPCODE_NOP              0x0
 
-#if 0
+#if 1
 typedef unsigned char       u8;
 typedef char                s8;
 typedef unsigned short      u16;
